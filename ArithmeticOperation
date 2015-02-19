@@ -1,0 +1,12 @@
+package com.nextgen.javaexamples;
+
+public class ArithmeticOperation {
+	public static void main(String args[])
+	{
+		int res1 = (10*2+5)/2;
+		double res2 = (10*2+5)/1.9;
+		System.out.println("Integer output is " + res1);
+		System.out.println("Float output is " + res2);
+	}
+
+}
